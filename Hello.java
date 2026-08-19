@@ -1,5 +1,5 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Hello from Jenkins POM Trigger!");
+        System.out.println("Hello from Jenkins POM Trigger Used!");
     }
 }
